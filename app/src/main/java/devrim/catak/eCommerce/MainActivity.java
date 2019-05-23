@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         db=new Database(getApplicationContext());
-        listemiz = (ListView) findViewById(R.id.list);
+        listemiz =  findViewById(R.id.list);
         adaptorumuz = new kategoriAdapter(this,kategoriler);
 
         requestQueue= Volley.newRequestQueue(getApplicationContext());
