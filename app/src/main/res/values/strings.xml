@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mini E-Commerce</string>
+    <string name="title_activity_kitap_detay">ürün detay</string>
+    <string name="home">Anasayfa</string>
+    <string name="search">Kitap Ara</string>//
+    <string name="profile">Profil</string>
+    <string name="kategoriler">Kategoriler</string>
+    <string name="kitaplar">Kitaplar</string>
+    <string name="happy">Happy</string>
+    <string name="room">Room</string>
+    <string name="restaurant">Food</string>
+    <string name="shop">Shop</string>
+    <string name="photos">Pics</string>
+    <string name="call">Call</string>
+</resources>

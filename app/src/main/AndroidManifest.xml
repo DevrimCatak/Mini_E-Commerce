@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="devrim.catak.eCommerce">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="devrim.catak.eCommerce.AnaKitaplar"></activity>
+        <activity android:name="devrim.catak.eCommerce.sepet" />
+        <activity
+            android:name="devrim.catak.eCommerce.kitapDetay"
+            android:label="@string/title_activity_kitap_detay"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="devrim.catak.eCommerce.kitap" />
+        <activity android:name="devrim.catak.eCommerce.kitaplar" />
+        <activity android:name="devrim.catak.eCommerce.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
