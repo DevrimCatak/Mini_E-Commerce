@@ -22,14 +22,14 @@ Gelinen son noktaya ait ekran görüntüleri;
 
 ## Eklenecek Özellikler
 
- ✓ Ana Sayfa kampanya görselleri olması 
- ✓ Kategoriler olması
- ✓ Kitapların kitap görselleri ile listelenmesi
- ✓ Sepete ekle
- ✓ Satın al
- ✓ Sepete ürün çıkar
- ✓ Sepetteki ürünleri satın al
-  -  Kullanıcı girişi
+ - ✓ Ana Sayfa kampanya görselleri olması
+ - ✓ Kategoriler olması
+ - ✓ Kitapların kitap görselleri ile listelenmesi
+ - ✓ Sepete ekle
+ - ✓ Satın al
+ - ✓ Sepete ürün çıkar
+ - ✓ Sepetteki ürünleri satın al
+ - Kullanıcı girişi
  - Kullanıcı bilgi güncelleme
  - Kullanıcı adres bilgileri alarak sipariş oluşturma
  - Kitap arama
