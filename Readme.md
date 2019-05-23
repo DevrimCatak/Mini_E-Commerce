@@ -10,15 +10,15 @@ Java dili üzerine MYSQL, PHP ve SQLite kullanılarak geliştirilmektedir. Çeş
 
 Gelinen son noktaya ait ekran görüntüleri;
 
-![ Ana Sayfa ](https://photos.google.com/share/AF1QipMYJJwSQEV7JF91xmAN1Y7FYeevqfIEw7dIBk8ohks5HxlJXljuZ0_7Tm2FOc2HTQ/photo/AF1QipPoW7KEghGAJP3ZaK4ghA-q0biW_VyjQONq-QTx?key=NVpnY25SaW9YM1dMNTBKZTN4Rm95Y0liNXBjaXVn&hl=tr)
+![Ana Sayfa](https://lh3.googleusercontent.com/Ej8OvHGL2b-Wv5luZLtx8h-wIAzhhV1XRngq7-qeVCrJ3Jlm2JoyHGyvO0G2tNlhmRkOUbtsJ7HPgw "Ana Sayfa")
 
-![Çok satan kitaplar](https://photos.google.com/share/AF1QipMYJJwSQEV7JF91xmAN1Y7FYeevqfIEw7dIBk8ohks5HxlJXljuZ0_7Tm2FOc2HTQ/photo/AF1QipMcAOQvsR_qjZn2btYX-Jx3oZbccAmMSgi6HjPO?key=NVpnY25SaW9YM1dMNTBKZTN4Rm95Y0liNXBjaXVn&hl=tr)
+![En çok satılan ürünler](https://lh3.googleusercontent.com/v5zD2xHi-2RwPrbW-ta-7UbMI2pARiDCWinm1fL64X1U3-tDCTEso00B72tFzJ-rllncf87N4HW4Bw "En çok satılan ürünler")
 
-![Stokta olan kitap detay ](https://photos.google.com/share/AF1QipMYJJwSQEV7JF91xmAN1Y7FYeevqfIEw7dIBk8ohks5HxlJXljuZ0_7Tm2FOc2HTQ/photo/AF1QipMd7EcMQB_FUo5xjj7fj_wrbPIh4pdjYFxO4nNX?key=NVpnY25SaW9YM1dMNTBKZTN4Rm95Y0liNXBjaXVn&hl=tr)
+![Stokta bulunan ürün detayı](https://lh3.googleusercontent.com/M8X0rA7z-UCpaqq8HZ6j__7RTrECnfVbWz_2Qv2gOE1GbmbkEUHPIMo8ZvioVBeDcIEtYkWHZ9aIUw "Stokta bulunan ürün detayı")
 
-![stokta olmayan kitap detay](https://photos.google.com/share/AF1QipMYJJwSQEV7JF91xmAN1Y7FYeevqfIEw7dIBk8ohks5HxlJXljuZ0_7Tm2FOc2HTQ/photo/AF1QipNg--m_WIxfjojHc3myajFFcVhHAkj444Ij2cg0?key=NVpnY25SaW9YM1dMNTBKZTN4Rm95Y0liNXBjaXVn&hl=tr)
+![Stokta bulunmayan ürün detayı](https://lh3.googleusercontent.com/u7ujCgOCl45W_hI-N-tUwZG2wyvdSwTF1_bTlDXZpO03agAI8zI-LF0USlmBI5-9A8GCT2yWlVyklQ "Stokta bulunmayan ürün detayı")
 
-![Sepet Sayfası](https://photos.google.com/share/AF1QipMYJJwSQEV7JF91xmAN1Y7FYeevqfIEw7dIBk8ohks5HxlJXljuZ0_7Tm2FOc2HTQ/photo/AF1QipPck1wbClGcWngtChXdhQzY77_njZB9bMZwjSoo?key=NVpnY25SaW9YM1dMNTBKZTN4Rm95Y0liNXBjaXVn&hl=tr)
+![Sepet](https://lh3.googleusercontent.com/9R9l6fo4oKIsgu757sbpVY4PJBiTne9I62QQV2A4lFDmKBGwdfkG1N507cYF_JRqwnk_YP_2xiesmw "Sepet")
 
 ## Eklenecek Özellikler
 
@@ -44,6 +44,3 @@ Ana dizine yüklediğim apk.apk dosyasını indirip kurarak uygulamanın son hal
 ## Projeyi İndirip kullanmak
 
 Githup üzerinden uygulama java dosyalarını ve php klasöründe bulunan PHP dosyalarını indirip kullanabilirsiniz. Projeyi kendi veritabanınızda kullanabilmek için php klasöründe bulunan baglanti.php dosyasını kendi bilgileriniz ile değiştirip klasördeki dosyaları kendi hosting hizmetinize yüklemelisiniz. Android projede bulunan url kısımlarını yüklediğiniz sitenin url i ile değiştirmelisiniz. Bu yaptığınız değişiklikler ile beraber projeyi sorunsuz olarak kullanabilirsiniz.
-
-
-
