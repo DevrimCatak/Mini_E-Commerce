@@ -1,12 +1,12 @@
 <?php
 
 define('hostname', 'localhost');
-define('user', 'actionn_alisveris');
-define('password', 'BuyukA12.');
-define('databaseName', 'actionn_alisveris');
+define('user', 'user_Name');
+define('password', 'password');
+define('databaseName', 'db_Name');
 
 
-$connect = mysqli_connect("localhost", "actionn_alisveris", "BuyukA12.", "actionn_alisveris");
+$connect = mysqli_connect("localhost", "user_Name", "password", "db_Name");
 
 
 
